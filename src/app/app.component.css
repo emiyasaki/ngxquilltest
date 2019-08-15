@@ -1,0 +1,8 @@
+p {
+  font-family: Lato;
+}
+
+.ql-container {
+  height: 350px;
+  overflow-y: auto;
+}

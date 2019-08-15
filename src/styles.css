@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+
+@import "./app/quill/quill-emoji.css";
+@import "./app/quill/quill-mention.css";
+
+.ql-container {
+  height: 350px;
+}
